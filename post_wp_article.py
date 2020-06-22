@@ -3,7 +3,7 @@ import re
 
 # 配置登录的用户密码及操作的域名
 loginUser = 'admin' #登录用户
-loginPass = 'fuck_admin' #登录密码
+loginPass = 'xxxx' #登录密码
 domain = 'https://www.ncle.net' #操作的域名
 
 # 登录header
